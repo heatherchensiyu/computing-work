@@ -1,1 +1,1 @@
-a song related to Ms Ng and math
+Ms Ng teaches at a very fast pace, and speaks very fast as well. She often remind us to not give up and uses her dyslexia as a living example. Her lessons are never boring (maybe because we are busy catching up with what she is saying) and we always pay a lot of attention in order to understand.
