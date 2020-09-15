@@ -1,0 +1,5 @@
+While True:
+  display.scroll(Image,HEART)
+  sleep(500)
+  display.show(image.HEART_SMALL)
+  sleep(500)
