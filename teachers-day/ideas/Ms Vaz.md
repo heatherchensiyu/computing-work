@@ -1,1 +1,1 @@
-A story about Ms Vaz
+"I do not tolerate STUPIDITY! So please *throw* your stupidity out of the window during my lessons before *I* throw you out," Ms Vaz said to 1H during our first ever English lesson. A strict and VERY intimidating teacher indeed. Despite her petite figure, everyone was afraid of her. Even the rowdiest classes became well-behaved the moment they saw her approaching their classroom.
