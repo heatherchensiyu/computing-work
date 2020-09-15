@@ -1,5 +1,6 @@
-While True:
-  display.scroll(Image,HEART)
+from microbit import*
+while True:
+  display.show(Image,HEART)
   sleep(500)
-  display.show(image.HEART_SMALL)
+  display.show(Image.HEART_SMALL)
   sleep(500)
